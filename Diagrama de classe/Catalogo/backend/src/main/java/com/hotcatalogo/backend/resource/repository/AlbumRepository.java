@@ -1,4 +1,7 @@
 package com.hotcatalogo.backend.resource.repository;
 
-public interface AlbumRepository extends org.springframework.data.jpa.repository.JpaRepository<com.hotcatalogo.backend.domain.entity.Album, java.lang.Long> {
+import com.hotcatalogo.backend.domain.entity.Album;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AlbumRepository extends JpaRepository<Album, Long> {
 }

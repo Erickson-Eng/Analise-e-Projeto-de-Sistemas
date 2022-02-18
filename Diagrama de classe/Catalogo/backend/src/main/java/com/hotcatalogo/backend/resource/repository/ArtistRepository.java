@@ -1,4 +1,7 @@
 package com.hotcatalogo.backend.resource.repository;
 
-public interface ArtistRepository extends org.springframework.data.jpa.repository.JpaRepository<com.hotcatalogo.backend.domain.entity.Artist, java.lang.Long> {
+import com.hotcatalogo.backend.domain.entity.Artist;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ArtistRepository extends JpaRepository<Artist, Long> {
 }
