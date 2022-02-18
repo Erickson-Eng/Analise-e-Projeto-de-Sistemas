@@ -5,17 +5,13 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.validation.constraints.NotNull;
-
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class MusicRequest {
+public class ParticipantRequest {
 
-    @NotNull
-    private String title;
-    @NotNull
-    private Integer duration;
-    private Long albumId;
+    private Long musicId;
+    private Long artistId;
+    private String participantType;
 }
