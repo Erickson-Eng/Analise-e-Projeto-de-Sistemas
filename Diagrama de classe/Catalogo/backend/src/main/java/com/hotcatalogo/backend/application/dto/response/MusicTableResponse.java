@@ -7,16 +7,15 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonRootName("Album")
-public class AlbumResponse {
-    private Long id;
-    private String title;
-    private String releaseDate;
+@JsonRootName("Music")
+public class MusicTableResponse {
 
-    @JsonProperty("Artist")
-    private ArtistResponse artistResponse;
+    @JsonProperty("MusicTable")
+    private List<MusicResponse> musicResponseList;
 }

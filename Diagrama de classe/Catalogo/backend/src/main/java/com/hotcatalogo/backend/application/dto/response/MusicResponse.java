@@ -1,6 +1,5 @@
 package com.hotcatalogo.backend.application.dto.response;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonRootName;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -11,12 +10,10 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonRootName("Album")
-public class AlbumResponse {
+@JsonRootName("Music")
+public class MusicResponse {
+
     private Long id;
     private String title;
-    private String releaseDate;
-
-    @JsonProperty("Artist")
-    private ArtistResponse artistResponse;
+    private Integer duration;
 }
