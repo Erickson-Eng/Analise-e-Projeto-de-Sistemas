@@ -8,17 +8,11 @@ Esse repositorio tem como intuito apresentar todas as atividades realizadas na d
 Em cada repositorio será possivel encontrar uma pratica, onde, em algums será possivel encontrar implementações em java.
 
 Cada repositorio conterá um readme explicando um pouco sobre a atividade.
-## Casos de uso
 
-- [Cinema](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Caso%20de%20uso/Cinema)
-- [Hotel](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Caso%20de%20uso/Hotel)
+## Projetos
 
-## Diagrama de classe
-
-- [Pacote turistico](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/PacoteTuristico)
-- [Congresso](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/Congresso/Diagrams)
-- [Catalogo](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/Catalogo) *Contém implementação em spring*
-
+- [Caso de uso](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Caso%20de%20uso)
+- [Diagrama de classe](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe)
 
 ## Exemplos
 ### Caso de uso
