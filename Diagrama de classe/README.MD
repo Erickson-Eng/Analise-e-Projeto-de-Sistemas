@@ -16,7 +16,7 @@ Deseja-se construir um sistema para catagolar artistas musicais e seus álbuns. 
 ### Diagrama
 
 <div align=center>
-    <img src="https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20classe/Congresso/Diagrams/Catalogo%20-%20Diagrama%20de%20classes.png">
+    <img src="https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20classe/Congresso/Diagrams/Congresso%20-%20Diagrama%20de%20classes.png">
 </div>
 
 ## Pacote turistico
