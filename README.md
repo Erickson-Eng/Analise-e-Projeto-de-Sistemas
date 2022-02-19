@@ -20,8 +20,8 @@ Cada repositorio conterá um readme explicando um pouco sobre a atividade.
 - [Catalogo](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/Catalogo) *Contém implementação em spring*
 
 
-### Exemplos
+## Exemplos
 
-![Caso de uso - Hotel](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Caso%20de%20uso/Hotel)
-
-![Catalogo - Diagrama de classes](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/Catalogo)
+<div align=center>
+    <img src="https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20classe/Catalogo/diagrams/Catalogo%20musical%20-%20Diagrama%20de%20classe.png">
+</div>
