@@ -2,6 +2,8 @@
 
 
 ## Catalogo musical
+
+- [Implementação backend](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/tree/main/Diagrama%20de%20classe/Catalogo/backend)
 ### Descrição
 Deseja-se constuir um sistema para catalogar dados de cidades (nome, estado, população), onde cada cidade possui um ou mais museus (nome, valor da entrada) e hotéis (nome, valor da diária). Além disso, deseja-se registrar pacotes turísticos vendidos. Para registrar um pacote turístico, deve-se escolher uma cidade, definir a data da viagem, o hotel de hospedagem e o número de dias de permanência. Deve-se também definir se no pacote vai estar incluso ou não entradas em museus.
 ### Diagrama
@@ -9,6 +11,8 @@ Deseja-se constuir um sistema para catalogar dados de cidades (nome, estado, pop
 <div align=center>
     <img src="https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20classe/Catalogo/diagrams/Catalogo%20musical%20-%20Diagrama%20de%20classe.png">
 </div>
+
+
 
 ## Congresso
 ### Descrição
