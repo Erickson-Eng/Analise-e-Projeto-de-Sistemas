@@ -13,7 +13,7 @@ public interface IAlbumService {
 
     AlbumResponse getAlbum(Long id);
 
-    AlbumTableResponse getAllAlbums(String artistName);
+    AlbumTableResponse getAlbumsByArtistName(String artistName);
 
     AlbumResponse delete(Long id);
 
