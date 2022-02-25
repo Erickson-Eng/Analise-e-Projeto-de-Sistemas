@@ -8,7 +8,7 @@ public interface IArtistService {
 
     ArtistResponse save(ArtistRequest artistRequest);
 
-    ArtistResponse update(ArtistApi artistApi);
+    ArtistResponse update(Long id, ArtistApi artistApi);
 
     ArtistResponse delete(Long id);
 
