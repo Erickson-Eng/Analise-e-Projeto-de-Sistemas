@@ -3,16 +3,15 @@ package com.hotcatalogo.backend.domain.service;
 import com.hotcatalogo.backend.application.dto.api.ParticipantApi;
 import com.hotcatalogo.backend.application.dto.request.ParticipantRequest;
 import com.hotcatalogo.backend.application.dto.response.ParticipantResponse;
-
-import java.util.List;
+import com.hotcatalogo.backend.application.dto.response.ParticipantTableResponse;
 
 public interface IParticipantService {
 
     ParticipantResponse save (ParticipantRequest participantRequest);
 
-    ParticipantResponse update(ParticipantApi participantApi);
+    ParticipantResponse update(Long id, ParticipantApi participantApi);
 
     ParticipantResponse delete(Long id);
 
-    List<ParticipantResponse> listAllParticipantByMusic(Long id);
+    ParticipantTableResponse listAllParticipantByMusic(Long id);
 }

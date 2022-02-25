@@ -9,7 +9,7 @@ public interface IMusicService {
 
     MusicResponse save(MusicRequest musicRequest);
 
-    MusicResponse update(MusicApi musicApi);
+    MusicResponse update(Long id, MusicApi musicApi);
 
     MusicResponse delete(Long id);
 
