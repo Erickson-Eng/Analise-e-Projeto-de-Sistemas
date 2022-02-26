@@ -11,13 +11,11 @@ import org.mapstruct.Mappings;
 @Mapper(componentModel = "spring")
 public interface ArtistMapper {
 
-    @Mappings({
-            @Mapping(target = "artist.id", source = "artistId")
-    })
+    @Mapping(target = "id", ignore = true)
     Artist artistRequestToEntity(ArtistRequest artistRequest);
 
     @Mappings({
-            @Mapping(target = "artist.id", source = "artistId")
+            @Mapping(target = "id", source = "id")
     })
     Artist artistApiToEntity(ArtistApi artistApi);
 
