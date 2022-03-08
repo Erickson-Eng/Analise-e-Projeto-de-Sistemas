@@ -7,7 +7,12 @@ Problema
 - Ao selecionar a opção de venda de ingressos, o sistema carrega todas as seções ainda não encerradas, detalhando horário, o filme apresentado e o número da sala.
 - O cliente escolherá entre as opções a sessão que deseja assistir e o funcionário irá gerar o ingresso referente a mesma.
 
+#### Diagrama de sequencia
 ![Cinema - Sequencia](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20sequencia%20e%20comunicacao/Cinema/Sequence%20diagram%20-%20Cinema.png)
+
+#### Diagrama de comunicação
+
+![Cinema - comunicação](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20de%20sequencia%20e%20comunicacao/Cinema/Communication%20Diagram%20-%20Cinema.png)
 ### Locadora de veiculos
 
 - Primeiramente, o funcionário deve selecionar o cliente que está locando automóvel em uma lista. Para isso, ao selecionar a opção locação, o sistema deve carregar todos os clientes da empresa.
