@@ -10,7 +10,8 @@
     - Finalmente, o funcionário deverá gerar o ingresso referente à sessão escolhida.
 
 2. Diagrama
-![Diagrama do Cinema]()
+
+![Diagrama do Cinema](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20estado%20de%20maquina/Cinema/Cinema%20-%20Estado%20de%20maquina.png)
 
 ### Hotel
 
@@ -22,4 +23,4 @@
 
 2. Diagrama
 
-![Diagrama do Hotel]()
+![Diagrama do Hotel](https://github.com/Erickson-Eng/Analise-e-Projeto-de-Sistemas/blob/main/Diagrama%20estado%20de%20maquina/Hotel/Hotel%20-%20Estado%20de%20maquina.png)
