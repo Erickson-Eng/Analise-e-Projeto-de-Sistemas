@@ -11,7 +11,7 @@
 
 2. Diagrama
 
-![Diagrama do Cinema](/Cinema/Cinema%20-%20Diagrama%20de%20atividade.png)
+![Diagrama do Cinema](./Cinema/Cinema%20-%20Diagrama%20de%20atividade.png)
 
 ### Hotel
 
